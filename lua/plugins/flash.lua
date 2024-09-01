@@ -17,22 +17,6 @@ return {
       end,
       desc = "select with treesitter (flash)",
     },
-    -- {
-    --   "<leader>sR",
-    --   mode = { "o", "x" },
-    --   function()
-    --     require("flash").treesitter_search()
-    --   end,
-    --   desc = "select with treesitter visual mode (flash)",
-    -- },
-    -- {
-    --   "<leader>st",
-    --   mode = { "c" },
-    --   function()
-    --     require("flash").toggle()
-    --   end,
-    --   desc = "toggle flash search (flash)",
-    -- },
   },
   opts = {},
 }

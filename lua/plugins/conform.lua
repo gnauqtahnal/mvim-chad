@@ -7,7 +7,7 @@ return {
       function()
         require("conform").format { lsp_fallback = true }
       end,
-      desc = "Format file",
+      desc = "[Lsp] format",
     },
   },
   opts = {

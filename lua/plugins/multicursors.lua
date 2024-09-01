@@ -6,9 +6,9 @@ return {
   keys = {
     {
       mode = { "v", "n" },
-      "<Leader>m",
+      "<Leader>mm",
       "<cmd>MCstart<cr>",
-      desc = "Create a selection for selected text or word under the cursor",
+      desc = "[MultiCursor] select",
     },
   },
 }
